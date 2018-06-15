@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 helllo  jdgf
 helodf
+=======
+helllo  jdgf
+>>>>>>> parent of 85277b6... hello
